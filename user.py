@@ -1,5 +1,5 @@
 import random
-from credential import Credential, Credential
+from credential import User, Credential
 # from user import User
 
 def create_user(user_name, password):
