@@ -1,10 +1,12 @@
-# Password Locker
-### By Jackson Ikonya
-1. git clone git remote add origin https://github.com/Jackson-coder-arch/Password-Locker
-2. cd password
-3. To run the app use python3.9run.py
+# Project Name
+Password Locker
 
-## 
+## Description
+
+This project is to enable us to to create accounts and also be able to store credentials of the user, we are to also test the application is it has errors or not.
+
+By Jackson Ikonya
+
 # Setup Instructions
 1. Clone the repo:
     `git clone https://github.com/Jackson-coder-arch/Password-Locker`
@@ -16,12 +18,10 @@
     ` python3 credential-test.py`
 
 ## Technologies Used
-### Python3.9
+* Python3.9
 
-## Cloning 
-### In your terminal
-$ git clone https://github.com/Jackson-coder-arch/Password-Locker
-$ cd Password
+### Contact Info
+email: passwordlocker@gmail.com
 
 ## License
 Copyright (c) 2021 Jackson Ikonya
